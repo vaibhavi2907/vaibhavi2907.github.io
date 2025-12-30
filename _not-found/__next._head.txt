@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[63824,["/_next/static/chunks/b8f7357e7b04dac8.js","/_next/static/chunks/d2f18567144a998d.js"],"ViewportBoundary"]
+4:I[63824,["/_next/static/chunks/b8f7357e7b04dac8.js","/_next/static/chunks/d2f18567144a998d.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"OlcSguciapMI9pZ2fBqXf","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Vaibhavi V. Lawhale| Software Engineer"}],["$","meta","1",{"name":"description","content":"Senior Software Engineer with 15+ years of experience building scalable systems and leading engineering teams."}]]
