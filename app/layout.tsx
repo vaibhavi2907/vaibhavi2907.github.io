@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Vaibhavi V. Lawhale| Software Engineer",
   description:
-    "Senior Software Engineer with 15+ years of experience building scalable systems and leading engineering teams.",
+    "Senior Diploma Student with 3+ years of experience designing Android Applications and Websites and delivering high-impact solutions.",
 }
 
 export default function RootLayout({
