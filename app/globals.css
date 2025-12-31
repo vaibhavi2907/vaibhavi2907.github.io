@@ -3,7 +3,6 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* Updated theme for dark premium portfolio with pure black and cyan/blue accents */
 :root {
   --background: oklch(0 0 0);
   --foreground: oklch(0.95 0 0);
